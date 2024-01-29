@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hand_phones",
+  "info": {
+    "singularName": "hand-phone",
+    "pluralName": "hand-phones",
+    "displayName": "HandPhone",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Merek": {
+      "type": "text"
+    },
+    "Jenis": {
+      "type": "text"
+    },
+    "Nominal": {
+      "type": "integer"
+    }
+  }
+}
