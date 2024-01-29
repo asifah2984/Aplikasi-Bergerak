@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "beritas",
+  "info": {
+    "singularName": "berita",
+    "pluralName": "beritas",
+    "displayName": "Berita",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Judul": {
+      "type": "string"
+    },
+    "isi": {
+      "type": "text"
+    }
+  }
+}
